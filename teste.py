@@ -1,7 +1,7 @@
 x = 10
 y = 20
-
-resultado = x + y 
+z = 30
+resultado = x + y * z 
 
 print (resultado)
 
