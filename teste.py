@@ -1,0 +1,8 @@
+x = 10
+y = 20
+
+resultado = x + y 
+
+print (resultado)
+
+
